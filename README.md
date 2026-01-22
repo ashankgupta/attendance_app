@@ -4,37 +4,37 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-# 📝 Offline Attendance App
+# Offline Attendance App
 
 A powerful, offline-first attendance management application built with Flutter, designed to be the perfect assistant for any Class Representative. This app works flawlessly without any internet connection, ensuring reliability and ease of use.
 
 
-## ✨ Key Features
+## Key Features
 
-* ✅ **100% Offline:** All data is stored locally on the device. No internet required.
-* 👨‍🎓 **Full Student Management:**
+* **100% Offline:** All data is stored locally on the device. No internet required.
+* **Full Student Management:**
     * Add, Edit, and Delete students manually.
     * Bulk import the entire student list from a CSV file.
-* 📚 **Multi-Session Support:** Take attendance for multiple classes, labs, or events on the same day without overwriting data.
-* ⚡ **Quick Actions:**
+* **Multi-Session Support:** Take attendance for multiple classes, labs, or events on the same day without overwriting data.
+* **Quick Actions:**
     * Mark all students as 'Present' or 'Absent' with a single tap.
-* 📊 **Smart CSV Export:**
+* **Smart CSV Export:**
     * Export attendance reports with multiple options:
         * Latest Session
         * Today's Sessions
         * This Week / This Month
         * Full History
-* 📱 **Modern & Responsive UI:**
+* **Modern & Responsive UI:**
     * Clean, intuitive interface built with **Material 3**.
     * A beautiful dashboard with live stats.
     * Automatic **Dark Mode** support.
     * Smooth and subtle animations for a premium feel.
-* 👤 **Personalized:**
+* **Personalized:**
     * Custom App Icon.
     * Developer credit footer with a link to your profile.
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Framework:** Flutter
 * **Language:** Dart
@@ -49,7 +49,7 @@ A powerful, offline-first attendance management application built with Flutter, 
     * `url_launcher`: For opening external links.
     * `flutter_launcher_icons`: For generating the app icon.
 
-## 🚀 Getting Started
+## Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
@@ -70,13 +70,13 @@ To get a local copy up and running, follow these simple steps.
     flutter run
     ```
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="assets/home.png" width="260" />  
   <img src="assets/add_student.png" width="260" />
   <img src="assets/mark_attendance.png" width="260" />
 </p>
 
-## 📄 License
+## License
 
 This project is licensed under MIT License.
